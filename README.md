@@ -13,8 +13,8 @@ It offers a fully functional Command-Line Interface (CLI) and a minimal Graphica
 - [How to Run](#-how-to-run)
 - [Flights File Format](#-flights-file-format)
 - [Future Improvements](#-future-improvements)
-- [Screenshots](#-screenshots)
 - [License](#-license)
+- [Summary](#-summary)
 
 ---
 
